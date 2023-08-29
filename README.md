@@ -42,6 +42,6 @@ Throughout these projects, I utilized a variety of tools and technologies, inclu
 Each project folder contains a dedicated README file providing an overview of the project, its objectives, methodologies used, and key findings.
 ## Contact Information
 
-I'm open to collaborations, discussions, and feedback on any of the projects. You can reach me via email at [your.email@example.com](mailto:rr.valdez0312@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rrvaldez/).
+I'm open to collaborations, discussions, and feedback on any of the projects. You can reach me via email at [rr.valdez0312@gmail.com](mailto:rr.valdez0312@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/rrvaldez/).
 
 Thank you for visiting my portfolio, and I hope you find the projects intriguing and insightful!
